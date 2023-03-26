@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OIBSIP_TASK1</string>
+    <string name="convert_button_label">Convert</string>
+    <string name="input_unit_prompt">Select input unit</string>
+    <string name="output_unit_prompt">Select output unit</string>
+
+    <string-array name="units_array">
+        <item>Centimeters</item>
+        <item>Meters</item>
+        <item>Millimeters</item>
+        <item>Kilometers</item>
+        <!--        -->
+        <item>Grams</item>
+        <item>Kilograms</item>
+        <item>Milligrams</item>
+    </string-array>
+</resources>
